@@ -13,3 +13,4 @@ wheels/
 cleaned_data
 data
 pgdata
+.vscode
