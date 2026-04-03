@@ -33,7 +33,8 @@ The dataset contains ~100,000 real orders placed between 2016 and 2018 across mu
 ecommerce-dashboard/
 │
 ├── data/
-│   └── cleaned_data/
+│
+│── cleaned_data/
 │       ├── master_orders.csv
 │       ├── order_items_clean.csv
 │       ├── products_clean.csv
